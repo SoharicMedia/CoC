@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<LevelData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" cityId="150921582">
+  <squads>
+    <PoliceSquad>
+      <squadNo>1</squadNo>
+      <vehicles>
+        <PoliceVehicleInstance>
+          <ofTypeId>ve_polcar</ofTypeId>
+        </PoliceVehicleInstance>
+      </vehicles>
+      <members>
+        <TeamMember xsi:type="Policeman">
+          <ofTypeId />
+          <equipment1>
+            <ofTypeId>e_pistol</ofTypeId>
+          </equipment1>
+          <experience>1000</experience>
+          <drivingSkill>0.7782631</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Samuel Watson</name>
+            <type>AfAm</type>
+            <sex>M</sex>
+            <faceRoot>AfAmM/</faceRoot>
+            <photo />
+            <colord>
+              <r>0.8680535</r>
+              <g>0.7513807</g>
+              <b>0.709207952</b>
+              <a>1</a>
+            </colord>
+            <headNo>2</headNo>
+            <faceNo>3</faceNo>
+            <hairNo>3</hairNo>
+            <beardNo>3</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>1</hatNo>
+            <rank>1</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0.925990164</marksmanship>
+          </fighter>
+          <firstaid>0</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+        <TeamMember xsi:type="Policeman">
+          <ofTypeId />
+          <equipment1>
+            <ofTypeId>e_pistol</ofTypeId>
+          </equipment1>
+          <experience>2000</experience>
+          <drivingSkill>0.6593709</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Xavier Baker</name>
+            <type>AfAm</type>
+            <sex>M</sex>
+            <faceRoot>AfAmM/</faceRoot>
+            <photo />
+            <colord>
+              <r>0.7540864</r>
+              <g>0.7394817</g>
+              <b>0.736864865</b>
+              <a>1</a>
+            </colord>
+            <headNo>2</headNo>
+            <faceNo>1</faceNo>
+            <hairNo>3</hairNo>
+            <beardNo>3</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>1</hatNo>
+            <rank>2</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0.87725</marksmanship>
+          </fighter>
+          <firstaid>0</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+      </members>
+      <assignedToPlace>
+        <x>0</x>
+        <y>0</y>
+      </assignedToPlace>
+    </PoliceSquad>
+    <PoliceSquad>
+      <squadNo>2</squadNo>
+      <vehicles>
+        <PoliceVehicleInstance>
+          <ofTypeId>ve_polcar</ofTypeId>
+        </PoliceVehicleInstance>
+      </vehicles>
+      <members>
+        <TeamMember xsi:type="Policeman">
+          <ofTypeId />
+          <equipment1>
+            <ofTypeId>e_pistol</ofTypeId>
+          </equipment1>
+          <experience>3000</experience>
+          <drivingSkill>0.5296182</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>John Eberhardt</name>
+            <type />
+            <sex>M</sex>
+            <faceRoot />
+            <photo>Photos/f_photo122</photo>
+            <colord>
+              <r>1</r>
+              <g>1</g>
+              <b>1</b>
+              <a>1</a>
+            </colord>
+            <headNo>0</headNo>
+            <faceNo>0</faceNo>
+            <hairNo>0</hairNo>
+            <beardNo>0</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>1</hatNo>
+            <rank>3</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0.680643857</marksmanship>
+          </fighter>
+          <firstaid>0</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+        <TeamMember xsi:type="Policeman">
+          <ofTypeId />
+          <equipment1>
+            <ofTypeId>e_pistol</ofTypeId>
+          </equipment1>
+          <experience>2000</experience>
+          <drivingSkill>0.7963017</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Kinga Strykowska</name>
+            <type />
+            <sex>W</sex>
+            <faceRoot />
+            <photo>Photos/_0001_Kinga</photo>
+            <colord>
+              <r>1</r>
+              <g>1</g>
+              <b>1</b>
+              <a>1</a>
+            </colord>
+            <headNo>0</headNo>
+            <faceNo>0</faceNo>
+            <hairNo>0</hairNo>
+            <beardNo>0</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>1</hatNo>
+            <rank>2</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0.83575964</marksmanship>
+          </fighter>
+          <firstaid>0</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+      </members>
+      <assignedToPlace>
+        <x>0</x>
+        <y>0</y>
+      </assignedToPlace>
+    </PoliceSquad>
+    <PoliceSquad>
+      <squadNo>3</squadNo>
+      <vehicles>
+        <PoliceVehicleInstance>
+          <ofTypeId>ve_polvan</ofTypeId>
+        </PoliceVehicleInstance>
+      </vehicles>
+      <members>
+        <TeamMember xsi:type="Policeman">
+          <ofTypeId />
+          <equipment1>
+            <ofTypeId>e_pistol</ofTypeId>
+          </equipment1>
+          <experience>1000</experience>
+          <drivingSkill>0.936244845</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Sawyer Adams</name>
+            <type>White</type>
+            <sex>M</sex>
+            <faceRoot />
+            <photo />
+            <colord>
+              <r>0.763735056</r>
+              <g>0.6517319</g>
+              <b>0.624187469</b>
+              <a>1</a>
+            </colord>
+            <headNo>4</headNo>
+            <faceNo>4</faceNo>
+            <hairNo>4</hairNo>
+            <beardNo>1</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>1</hatNo>
+            <rank>1</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0.874520659</marksmanship>
+          </fighter>
+          <firstaid>0</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+        <TeamMember xsi:type="Policeman">
+          <ofTypeId />
+          <equipment1>
+            <ofTypeId>e_pistol</ofTypeId>
+          </equipment1>
+          <experience>2000</experience>
+          <drivingSkill>0.6388078</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Michael Zoutendijk</name>
+            <type />
+            <sex>M</sex>
+            <faceRoot />
+            <photo>Photos/f_photo90</photo>
+            <colord>
+              <r>1</r>
+              <g>1</g>
+              <b>1</b>
+              <a>1</a>
+            </colord>
+            <headNo>0</headNo>
+            <faceNo>0</faceNo>
+            <hairNo>0</hairNo>
+            <beardNo>0</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>1</hatNo>
+            <rank>2</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0.646449268</marksmanship>
+          </fighter>
+          <firstaid>0</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+      </members>
+      <assignedToPlace>
+        <x>0</x>
+        <y>0</y>
+      </assignedToPlace>
+    </PoliceSquad>
+    <PoliceSquad>
+      <squadNo>4</squadNo>
+      <vehicles>
+        <PoliceVehicleInstance>
+          <ofTypeId>ve_medvan</ofTypeId>
+        </PoliceVehicleInstance>
+      </vehicles>
+      <members>
+        <TeamMember xsi:type="Medic">
+          <ofTypeId />
+          <experience>0</experience>
+          <drivingSkill>0.807158</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Emily Peterson</name>
+            <type>AfAm</type>
+            <sex>W</sex>
+            <faceRoot>AfAmW/</faceRoot>
+            <photo />
+            <colord>
+              <r>0.9209229</r>
+              <g>0.7818998</g>
+              <b>0.7607665</b>
+              <a>1</a>
+            </colord>
+            <headNo>2</headNo>
+            <faceNo>2</faceNo>
+            <hairNo>3</hairNo>
+            <beardNo>0</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>2</hatNo>
+            <rank>0</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0</marksmanship>
+          </fighter>
+          <firstaid>0.7740892</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+        <TeamMember xsi:type="Medic">
+          <ofTypeId />
+          <experience>3000</experience>
+          <drivingSkill>0.5550442</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Asher White</name>
+            <type>White</type>
+            <sex>M</sex>
+            <faceRoot />
+            <photo />
+            <colord>
+              <r>0.901298344</r>
+              <g>0.890881836</g>
+              <b>0.865563869</b>
+              <a>1</a>
+            </colord>
+            <headNo>5</headNo>
+            <faceNo>2</faceNo>
+            <hairNo>4</hairNo>
+            <beardNo>1</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>2</hatNo>
+            <rank>3</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0</marksmanship>
+          </fighter>
+          <firstaid>0.675229132</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+      </members>
+      <assignedToPlace>
+        <x>0</x>
+        <y>0</y>
+      </assignedToPlace>
+    </PoliceSquad>
+    <PoliceSquad>
+      <squadNo>5</squadNo>
+      <vehicles>
+        <PoliceVehicleInstance>
+          <ofTypeId>ve_medvan</ofTypeId>
+        </PoliceVehicleInstance>
+      </vehicles>
+      <members>
+        <TeamMember xsi:type="Medic">
+          <ofTypeId />
+          <experience>2000</experience>
+          <drivingSkill>0.832556963</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Oliver Morales</name>
+            <type>White</type>
+            <sex>M</sex>
+            <faceRoot />
+            <photo />
+            <colord>
+              <r>0.809233069</r>
+              <g>0.7167146</g>
+              <b>0.643006742</b>
+              <a>1</a>
+            </colord>
+            <headNo>5</headNo>
+            <faceNo>1</faceNo>
+            <hairNo>1</hairNo>
+            <beardNo>1</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>2</hatNo>
+            <rank>2</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0</marksmanship>
+          </fighter>
+          <firstaid>0.71716857</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+        <TeamMember xsi:type="Medic">
+          <ofTypeId />
+          <experience>0</experience>
+          <drivingSkill>0.914527833</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Theodore Johnson</name>
+            <type>White</type>
+            <sex>M</sex>
+            <faceRoot />
+            <photo />
+            <colord>
+              <r>0.9077257</r>
+              <g>0.790362954</g>
+              <b>0.779851437</b>
+              <a>1</a>
+            </colord>
+            <headNo>5</headNo>
+            <faceNo>2</faceNo>
+            <hairNo>2</hairNo>
+            <beardNo>1</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>2</hatNo>
+            <rank>0</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0</marksmanship>
+          </fighter>
+          <firstaid>0.7118329</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+      </members>
+      <assignedToPlace>
+        <x>0</x>
+        <y>0</y>
+      </assignedToPlace>
+    </PoliceSquad>
+    <PoliceSquad>
+      <squadNo>6</squadNo>
+      <vehicles>
+        <PoliceVehicleInstance>
+          <ofTypeId>ve_medvan</ofTypeId>
+        </PoliceVehicleInstance>
+      </vehicles>
+      <members>
+        <TeamMember xsi:type="Medic">
+          <ofTypeId />
+          <experience>1000</experience>
+          <drivingSkill>0.7526393</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Andreas Trageser</name>
+            <type />
+            <sex>M</sex>
+            <faceRoot />
+            <photo>Photos/f_photo82</photo>
+            <colord>
+              <r>1</r>
+              <g>1</g>
+              <b>1</b>
+              <a>1</a>
+            </colord>
+            <headNo>0</headNo>
+            <faceNo>0</faceNo>
+            <hairNo>0</hairNo>
+            <beardNo>0</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>2</hatNo>
+            <rank>1</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0</marksmanship>
+          </fighter>
+          <firstaid>0.977297664</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+        <TeamMember xsi:type="Medic">
+          <ofTypeId />
+          <experience>1000</experience>
+          <drivingSkill>0.612279058</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Addison James</name>
+            <type>AfAm</type>
+            <sex>W</sex>
+            <faceRoot>AfAmW/</faceRoot>
+            <photo />
+            <colord>
+              <r>0.9265105</r>
+              <g>0.846495032</g>
+              <b>0.8450277</b>
+              <a>1</a>
+            </colord>
+            <headNo>3</headNo>
+            <faceNo>2</faceNo>
+            <hairNo>1</hairNo>
+            <beardNo>0</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>2</hatNo>
+            <rank>1</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0</marksmanship>
+          </fighter>
+          <firstaid>0.9657937</firstaid>
+          <skill>0</skill>
+        </TeamMember>
+      </members>
+      <assignedToPlace>
+        <x>0</x>
+        <y>0</y>
+      </assignedToPlace>
+    </PoliceSquad>
+    <PoliceSquad>
+      <squadNo>7</squadNo>
+      <vehicles>
+        <PoliceVehicleInstance>
+          <ofTypeId>ve_firetruck</ofTypeId>
+        </PoliceVehicleInstance>
+      </vehicles>
+      <members>
+        <TeamMember xsi:type="Fireman">
+          <ofTypeId />
+          <experience>1000</experience>
+          <drivingSkill>0.5846248</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Oliver Stewart</name>
+            <type>AfAm</type>
+            <sex>M</sex>
+            <faceRoot>AfAmM/</faceRoot>
+            <photo />
+            <colord>
+              <r>0.967554152</r>
+              <g>0.8441486</g>
+              <b>0.8418091</b>
+              <a>1</a>
+            </colord>
+            <headNo>3</headNo>
+            <faceNo>3</faceNo>
+            <hairNo>2</hairNo>
+            <beardNo>3</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>3</hatNo>
+            <rank>1</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0</marksmanship>
+          </fighter>
+          <firstaid>0</firstaid>
+          <skill>0.5863031</skill>
+        </TeamMember>
+        <TeamMember xsi:type="Fireman">
+          <ofTypeId />
+          <experience>3000</experience>
+          <drivingSkill>0.793299437</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Colby Veenman</name>
+            <type />
+            <sex>M</sex>
+            <faceRoot />
+            <photo>Photos/f_photo22</photo>
+            <colord>
+              <r>1</r>
+              <g>1</g>
+              <b>1</b>
+              <a>1</a>
+            </colord>
+            <headNo>0</headNo>
+            <faceNo>0</faceNo>
+            <hairNo>0</hairNo>
+            <beardNo>0</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>3</hatNo>
+            <rank>3</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0</marksmanship>
+          </fighter>
+          <firstaid>0</firstaid>
+          <skill>0.5607676</skill>
+        </TeamMember>
+      </members>
+      <assignedToPlace>
+        <x>0</x>
+        <y>0</y>
+      </assignedToPlace>
+    </PoliceSquad>
+    <PoliceSquad>
+      <squadNo>8</squadNo>
+      <vehicles>
+        <PoliceVehicleInstance>
+          <ofTypeId>ve_firetruck</ofTypeId>
+        </PoliceVehicleInstance>
+      </vehicles>
+      <members>
+        <TeamMember xsi:type="Fireman">
+          <ofTypeId />
+          <experience>3000</experience>
+          <drivingSkill>0.567651868</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Brooklyn Nguyen</name>
+            <type>White</type>
+            <sex>W</sex>
+            <faceRoot>WhiteW/</faceRoot>
+            <photo />
+            <colord>
+              <r>0.81023407</r>
+              <g>0.794346869</g>
+              <b>0.775193036</b>
+              <a>1</a>
+            </colord>
+            <headNo>1</headNo>
+            <faceNo>3</faceNo>
+            <hairNo>4</hairNo>
+            <beardNo>0</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>3</hatNo>
+            <rank>3</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0</marksmanship>
+          </fighter>
+          <firstaid>0</firstaid>
+          <skill>0.6651561</skill>
+        </TeamMember>
+        <TeamMember xsi:type="Fireman">
+          <ofTypeId />
+          <experience>1000</experience>
+          <drivingSkill>0.5515456</drivingSkill>
+          <salary>200</salary>
+          <appearance>
+            <name>Jacob Ryan</name>
+            <type />
+            <sex>M</sex>
+            <faceRoot />
+            <photo>Photos/f_photo68</photo>
+            <colord>
+              <r>1</r>
+              <g>1</g>
+              <b>1</b>
+              <a>1</a>
+            </colord>
+            <headNo>0</headNo>
+            <faceNo>0</faceNo>
+            <hairNo>0</hairNo>
+            <beardNo>0</beardNo>
+            <glassesNo>0</glassesNo>
+            <hatNo>3</hatNo>
+            <rank>1</rank>
+          </appearance>
+          <fighter>
+            <healthPoints>100</healthPoints>
+            <marksmanship>0</marksmanship>
+          </fighter>
+          <firstaid>0</firstaid>
+          <skill>0.882008</skill>
+        </TeamMember>
+      </members>
+      <assignedToPlace>
+        <x>0</x>
+        <y>0</y>
+      </assignedToPlace>
+    </PoliceSquad>
+  </squads>
+  <unassignedPoliceman>
+    <TeamMember xsi:type="Policeman">
+      <ofTypeId />
+      <experience>1000</experience>
+      <drivingSkill>0.773228168</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Adam Rivera</name>
+        <type>White</type>
+        <sex>M</sex>
+        <faceRoot />
+        <photo />
+        <colord>
+          <r>0.7693181</r>
+          <g>0.747208357</g>
+          <b>0.722383559</b>
+          <a>1</a>
+        </colord>
+        <headNo>1</headNo>
+        <faceNo>5</faceNo>
+        <hairNo>4</hairNo>
+        <beardNo>3</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>1</hatNo>
+        <rank>1</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0.9520083</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Medic">
+      <ofTypeId />
+      <experience>1000</experience>
+      <drivingSkill>0.715510964</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Micheal Armstrong</name>
+        <type />
+        <sex>M</sex>
+        <faceRoot />
+        <photo>Photos/f_photo39</photo>
+        <colord>
+          <r>1</r>
+          <g>1</g>
+          <b>1</b>
+          <a>1</a>
+        </colord>
+        <headNo>0</headNo>
+        <faceNo>0</faceNo>
+        <hairNo>0</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>2</hatNo>
+        <rank>1</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0.572548151</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+  </unassignedPoliceman>
+  <unassignedEquipent />
+  <unassignedVehicle>
+    <PoliceVehicleInstance>
+      <ofTypeId>ve_techtruck</ofTypeId>
+    </PoliceVehicleInstance>
+  </unassignedVehicle>
+  <infrastructure>
+    <InfrastructureInst>
+      <ofTypeId>i_station</ofTypeId>
+      <lat>21.335725784301758</lat>
+      <lon>-158.08122253417969</lon>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <ofType>
+        <ofTypeId>i_station</ofTypeId>
+        <name>Police Department</name>
+        <description />
+        <homeFor>police</homeFor>
+        <lat>0</lat>
+        <lon>0</lon>
+      </ofType>
+      <mp>
+        <lat>21.335725784301758</lat>
+        <lon>-158.08122253417969</lon>
+        <id>4017</id>
+        <name>Kapolei Central Police Station</name>
+      </mp>
+    </InfrastructureInst>
+    <InfrastructureInst>
+      <ofTypeId>i_station</ofTypeId>
+      <lat>21.326313018798828</lat>
+      <lon>-158.08512878417969</lon>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <ofType>
+        <ofTypeId>i_station</ofTypeId>
+        <name>Police Department</name>
+        <description />
+        <homeFor>police</homeFor>
+        <lat>0</lat>
+        <lon>0</lon>
+      </ofType>
+      <mp>
+        <lat>21.326313018798828</lat>
+        <lon>-158.08512878417969</lon>
+        <id>4018</id>
+        <name>Kapolei Juvenille Detention Facility</name>
+      </mp>
+    </InfrastructureInst>
+    <InfrastructureInst>
+      <ofTypeId>i_station</ofTypeId>
+      <lat>21.327438354492188</lat>
+      <lon>-158.08515930175781</lon>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <ofType>
+        <ofTypeId>i_station</ofTypeId>
+        <name>Police Department</name>
+        <description />
+        <homeFor>police</homeFor>
+        <lat>0</lat>
+        <lon>0</lon>
+      </ofType>
+      <mp>
+        <lat>21.327438354492188</lat>
+        <lon>-158.08515930175781</lon>
+        <id>4019</id>
+        <name>Ronald T.Y. Moon Judiciary Courthouse</name>
+      </mp>
+    </InfrastructureInst>
+    <InfrastructureInst>
+      <ofTypeId>i_hospital</ofTypeId>
+      <lat>21.326692581176758</lat>
+      <lon>-158.07479858398438</lon>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <ofType>
+        <ofTypeId>i_hospital</ofTypeId>
+        <name>Hospital</name>
+        <description />
+        <homeFor>medical</homeFor>
+        <lat>0</lat>
+        <lon>0</lon>
+      </ofType>
+      <mp>
+        <lat>21.326692581176758</lat>
+        <lon>-158.07479858398438</lon>
+        <id>4021</id>
+        <name>Kapolei Eye Care</name>
+      </mp>
+    </InfrastructureInst>
+    <InfrastructureInst>
+      <ofTypeId>i_hospital</ofTypeId>
+      <lat>21.339334487915039</lat>
+      <lon>-158.07608032226563</lon>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <ofType>
+        <ofTypeId>i_hospital</ofTypeId>
+        <name>Hospital</name>
+        <description />
+        <homeFor>medical</homeFor>
+        <lat>0</lat>
+        <lon>0</lon>
+      </ofType>
+      <mp>
+        <lat>21.339334487915039</lat>
+        <lon>-158.07608032226563</lon>
+        <id>4022</id>
+        <name>Kapolei Health Center</name>
+      </mp>
+    </InfrastructureInst>
+    <InfrastructureInst>
+      <ofTypeId>i_firestation</ofTypeId>
+      <lat>21.354469299316406</lat>
+      <lon>-158.0865478515625</lon>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <ofType>
+        <ofTypeId>i_firestation</ofTypeId>
+        <name>Fire Station</name>
+        <description />
+        <homeFor>fire</homeFor>
+        <lat>0</lat>
+        <lon>0</lon>
+      </ofType>
+      <mp>
+        <lat>21.354469299316406</lat>
+        <lon>-158.0865478515625</lon>
+        <id>4020</id>
+        <name>Makakilo Fire Station</name>
+      </mp>
+    </InfrastructureInst>
+  </infrastructure>
+  <cash>10000</cash>
+  <recruitablePoliceman>
+    <TeamMember xsi:type="Policeman">
+      <ofTypeId />
+      <experience>1000</experience>
+      <drivingSkill>0.9131371</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Marek Melzr</name>
+        <type />
+        <sex>M</sex>
+        <faceRoot />
+        <photo>Photos/f_photo76</photo>
+        <colord>
+          <r>1</r>
+          <g>1</g>
+          <b>1</b>
+          <a>1</a>
+        </colord>
+        <headNo>0</headNo>
+        <faceNo>0</faceNo>
+        <hairNo>0</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>1</hatNo>
+        <rank>1</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0.669980645</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Policeman">
+      <ofTypeId />
+      <experience>0</experience>
+      <drivingSkill>0.567750931</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Chase Williams</name>
+        <type>White</type>
+        <sex>M</sex>
+        <faceRoot />
+        <photo />
+        <colord>
+          <r>0.7847609</r>
+          <g>0.64285773</g>
+          <b>0.6196737</b>
+          <a>1</a>
+        </colord>
+        <headNo>3</headNo>
+        <faceNo>5</faceNo>
+        <hairNo>3</hairNo>
+        <beardNo>3</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>1</hatNo>
+        <rank>0</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0.6170505</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Policeman">
+      <ofTypeId />
+      <experience>2000</experience>
+      <drivingSkill>0.567395568</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Owen Williams</name>
+        <type>White</type>
+        <sex>M</sex>
+        <faceRoot />
+        <photo />
+        <colord>
+          <r>0.8387376</r>
+          <g>0.7171872</g>
+          <b>0.6660907</b>
+          <a>1</a>
+        </colord>
+        <headNo>4</headNo>
+        <faceNo>2</faceNo>
+        <hairNo>2</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>1</hatNo>
+        <rank>2</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0.822389</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Policeman">
+      <ofTypeId />
+      <experience>1000</experience>
+      <drivingSkill>0.8546699</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Alexandre Boni Clydopathe</name>
+        <type />
+        <sex>M</sex>
+        <faceRoot />
+        <photo>Photos/f_photo8</photo>
+        <colord>
+          <r>1</r>
+          <g>1</g>
+          <b>1</b>
+          <a>1</a>
+        </colord>
+        <headNo>0</headNo>
+        <faceNo>0</faceNo>
+        <hairNo>0</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>1</hatNo>
+        <rank>1</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0.6653959</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Policeman">
+      <ofTypeId />
+      <experience>3000</experience>
+      <drivingSkill>0.6334774</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Næþ'n Lasseter</name>
+        <type />
+        <sex>M</sex>
+        <faceRoot />
+        <photo>Photos/f_photo84</photo>
+        <colord>
+          <r>1</r>
+          <g>1</g>
+          <b>1</b>
+          <a>1</a>
+        </colord>
+        <headNo>0</headNo>
+        <faceNo>0</faceNo>
+        <hairNo>0</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>1</hatNo>
+        <rank>3</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0.7715633</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Medic">
+      <ofTypeId />
+      <experience>1000</experience>
+      <drivingSkill>0.589205742</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Chase Foster</name>
+        <type>White</type>
+        <sex>M</sex>
+        <faceRoot />
+        <photo />
+        <colord>
+          <r>0.884521961</r>
+          <g>0.871045232</g>
+          <b>0.8237172</b>
+          <a>1</a>
+        </colord>
+        <headNo>3</headNo>
+        <faceNo>2</faceNo>
+        <hairNo>3</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>2</hatNo>
+        <rank>1</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0.898073</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Medic">
+      <ofTypeId />
+      <experience>0</experience>
+      <drivingSkill>0.768371</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Diogo Neves</name>
+        <type />
+        <sex>M</sex>
+        <faceRoot />
+        <photo>Photos/f_photo54</photo>
+        <colord>
+          <r>1</r>
+          <g>1</g>
+          <b>1</b>
+          <a>1</a>
+        </colord>
+        <headNo>0</headNo>
+        <faceNo>0</faceNo>
+        <hairNo>0</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>2</hatNo>
+        <rank>0</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0.6213077</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Medic">
+      <ofTypeId />
+      <experience>0</experience>
+      <drivingSkill>0.7304373</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Jaxson Rogers</name>
+        <type>White</type>
+        <sex>M</sex>
+        <faceRoot />
+        <photo />
+        <colord>
+          <r>0.7961845</r>
+          <g>0.7934303</g>
+          <b>0.7654637</b>
+          <a>1</a>
+        </colord>
+        <headNo>1</headNo>
+        <faceNo>5</faceNo>
+        <hairNo>3</hairNo>
+        <beardNo>3</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>2</hatNo>
+        <rank>0</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0.903695</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Medic">
+      <ofTypeId />
+      <experience>0</experience>
+      <drivingSkill>0.9662179</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Adam Lopez</name>
+        <type>White</type>
+        <sex>M</sex>
+        <faceRoot />
+        <photo />
+        <colord>
+          <r>0.8999695</r>
+          <g>0.818400145</g>
+          <b>0.7062594</b>
+          <a>1</a>
+        </colord>
+        <headNo>2</headNo>
+        <faceNo>4</faceNo>
+        <hairNo>1</hairNo>
+        <beardNo>2</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>2</hatNo>
+        <rank>0</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0.926334441</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Medic">
+      <ofTypeId />
+      <experience>1000</experience>
+      <drivingSkill>0.604262352</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Filip Silovsky</name>
+        <type />
+        <sex>M</sex>
+        <faceRoot />
+        <photo>Photos/f_photo24</photo>
+        <colord>
+          <r>1</r>
+          <g>1</g>
+          <b>1</b>
+          <a>1</a>
+        </colord>
+        <headNo>0</headNo>
+        <faceNo>0</faceNo>
+        <hairNo>0</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>2</hatNo>
+        <rank>1</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0.70942533</firstaid>
+      <skill>0</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Fireman">
+      <ofTypeId />
+      <experience>1000</experience>
+      <drivingSkill>0.907281339</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Adam Myers</name>
+        <type>White</type>
+        <sex>M</sex>
+        <faceRoot />
+        <photo />
+        <colord>
+          <r>0.9715876</r>
+          <g>0.9036866</g>
+          <b>0.896847546</b>
+          <a>1</a>
+        </colord>
+        <headNo>5</headNo>
+        <faceNo>3</faceNo>
+        <hairNo>3</hairNo>
+        <beardNo>1</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>3</hatNo>
+        <rank>1</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0.9192424</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Fireman">
+      <ofTypeId />
+      <experience>0</experience>
+      <drivingSkill>0.71203506</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Trystan Vel</name>
+        <type />
+        <sex>M</sex>
+        <faceRoot />
+        <photo>Photos/f_photo114</photo>
+        <colord>
+          <r>1</r>
+          <g>1</g>
+          <b>1</b>
+          <a>1</a>
+        </colord>
+        <headNo>0</headNo>
+        <faceNo>0</faceNo>
+        <hairNo>0</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>3</hatNo>
+        <rank>0</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0.8835691</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Fireman">
+      <ofTypeId />
+      <experience>1000</experience>
+      <drivingSkill>0.503821969</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Brianna Green</name>
+        <type>White</type>
+        <sex>W</sex>
+        <faceRoot>WhiteW/</faceRoot>
+        <photo />
+        <colord>
+          <r>0.9872071</r>
+          <g>0.938501358</g>
+          <b>0.8680463</b>
+          <a>1</a>
+        </colord>
+        <headNo>4</headNo>
+        <faceNo>2</faceNo>
+        <hairNo>1</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>3</hatNo>
+        <rank>1</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0.9805184</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Fireman">
+      <ofTypeId />
+      <experience>0</experience>
+      <drivingSkill>0.737356663</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Lily Powell</name>
+        <type>White</type>
+        <sex>W</sex>
+        <faceRoot>WhiteW/</faceRoot>
+        <photo />
+        <colord>
+          <r>0.801547</r>
+          <g>0.710739255</g>
+          <b>0.657623</b>
+          <a>1</a>
+        </colord>
+        <headNo>3</headNo>
+        <faceNo>3</faceNo>
+        <hairNo>4</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>3</hatNo>
+        <rank>0</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0.7202581</skill>
+    </TeamMember>
+    <TeamMember xsi:type="Fireman">
+      <ofTypeId />
+      <experience>2000</experience>
+      <drivingSkill>0.618332744</drivingSkill>
+      <salary>200</salary>
+      <appearance>
+        <name>Caroline Rivera</name>
+        <type>White</type>
+        <sex>W</sex>
+        <faceRoot>WhiteW/</faceRoot>
+        <photo />
+        <colord>
+          <r>0.7832614</r>
+          <g>0.7647941</g>
+          <b>0.63525486</b>
+          <a>1</a>
+        </colord>
+        <headNo>2</headNo>
+        <faceNo>2</faceNo>
+        <hairNo>2</hairNo>
+        <beardNo>0</beardNo>
+        <glassesNo>0</glassesNo>
+        <hatNo>3</hatNo>
+        <rank>2</rank>
+      </appearance>
+      <fighter>
+        <healthPoints>100</healthPoints>
+        <marksmanship>0</marksmanship>
+      </fighter>
+      <firstaid>0</firstaid>
+      <skill>0.9022827</skill>
+    </TeamMember>
+  </recruitablePoliceman>
+  <buyableEquipent>
+    <string>e_pistol</string>
+    <string>e_vest</string>
+    <string>e_firstmedkit</string>
+  </buyableEquipent>
+  <buyableVehicle>
+    <string>ve_polcar</string>
+    <string>ve_medvan</string>
+    <string>ve_firetruck</string>
+  </buyableVehicle>
+  <buyableInfrastructure />
+  <reportTypes />
+  <statistics>
+    <injuriedInHospital>0</injuriedInHospital>
+    <reportsDoneTotal>0</reportsDoneTotal>
+    <unresolvedReports>0</unresolvedReports>
+    <reputation>0</reputation>
+    <dutiesDone>0</dutiesDone>
+    <ticketsGivenTotal>0</ticketsGivenTotal>
+    <ticketsGivenTotalValue>0</ticketsGivenTotalValue>
+    <criminalsCatched>0</criminalsCatched>
+    <death>0</death>
+    <firstAidGiven>0</firstAidGiven>
+    <financialAwards>0</financialAwards>
+  </statistics>
+  <globalStatistics>
+    <injuriedInHospital>0</injuriedInHospital>
+    <reportsDoneTotal>0</reportsDoneTotal>
+    <unresolvedReports>0</unresolvedReports>
+    <reputation>0</reputation>
+    <dutiesDone>0</dutiesDone>
+    <ticketsGivenTotal>0</ticketsGivenTotal>
+    <ticketsGivenTotalValue>0</ticketsGivenTotalValue>
+    <criminalsCatched>0</criminalsCatched>
+    <death>0</death>
+    <firstAidGiven>0</firstAidGiven>
+    <financialAwards>0</financialAwards>
+  </globalStatistics>
+  <scenarioConversations>
+    <conversationsSpec>
+      <ConversationSpec>
+        <callID>81</callID>
+        <dutyDay>0</dutyDay>
+        <order>0</order>
+      </ConversationSpec>
+      <ConversationSpec>
+        <callID>53</callID>
+        <dutyDay>0</dutyDay>
+        <order>1</order>
+      </ConversationSpec>
+      <ConversationSpec>
+        <callID>chris</callID>
+        <dutyDay>0</dutyDay>
+        <order>2</order>
+      </ConversationSpec>
+      <ConversationSpec>
+        <callID>gen12</callID>
+        <dutyDay>0</dutyDay>
+        <order>3</order>
+        <deactivatedIds>
+          <string>child</string>
+          <string>empty</string>
+          <string>emptymed</string>
+        </deactivatedIds>
+      </ConversationSpec>
+      <ConversationSpec>
+        <callID>gen18</callID>
+        <dutyDay>1</dutyDay>
+        <order>0</order>
+        <deactivatedIds>
+          <string>3</string>
+          <string>4</string>
+          <string>fight</string>
+          <string>noises</string>
+          <string>idk</string>
+          <string>family</string>
+        </deactivatedIds>
+      </ConversationSpec>
+      <ConversationSpec>
+        <callID>gen19</callID>
+        <dutyDay>1</dutyDay>
+        <order>1</order>
+        <deactivatedIds>
+          <string>weeks</string>
+          <string>headache</string>
+          <string>othersym</string>
+          <string>noeat</string>
+          <string>burritoeat</string>
+        </deactivatedIds>
+      </ConversationSpec>
+      <ConversationSpec>
+        <callID>own67</callID>
+        <dutyDay>1</dutyDay>
+        <order>2</order>
+      </ConversationSpec>
+      <ConversationSpec>
+        <callID>gen22</callID>
+        <dutyDay>1</dutyDay>
+        <order>3</order>
+        <deactivatedIds>
+          <string>2</string>
+          <string>2b</string>
+          <string>side</string>
+          <string>mall</string>
+          <string>illegal</string>
+          <string>blocking</string>
+          <string>myspot</string>
+          <string>nospace</string>
+          <string>privat</string>
+        </deactivatedIds>
+      </ConversationSpec>
+      <ConversationSpec>
+        <callID>gen21</callID>
+        <dutyDay>1</dutyDay>
+        <order>4</order>
+        <deactivatedIds>
+          <string>running</string>
+          <string>three</string>
+          <string>four</string>
+          <string>bottle</string>
+          <string>knife</string>
+          <string>light</string>
+          <string>heavy</string>
+          <string>calmno</string>
+          <string>police1n</string>
+        </deactivatedIds>
+      </ConversationSpec>
+    </conversationsSpec>
+    <generableConversations />
+    <generableOnce />
+    <lastGenerated />
+    <generatedOnceCalls />
+    <useHardcodedCalls>false</useHardcodedCalls>
+  </scenarioConversations>
+  <eventsLog />
+  <answerCalls>true</answerCalls>
+  <baseIncome>5000</baseIncome>
+  <endCityAfterDuties>2</endCityAfterDuties>
+  <endConditions>
+    <reputationBorder>100</reputationBorder>
+    <requiredAmount>0</requiredAmount>
+    <necessaryCalls />
+    <requiredCallsNumber>0</requiredCallsNumber>
+  </endConditions>
+  <generatedFaces>
+    <string>f_photo81</string>
+  </generatedFaces>
+  <callTimesMin>88</callTimesMin>
+  <callTimesMax>93</callTimesMax>
+  <reportTimesMin>30</reportTimesMin>
+  <reportTimesMax>60</reportTimesMax>
+  <reportPopularities>
+    <ReportPop id="rep_rape" pop="1" />
+    <ReportPop id="rep_suecide_attemp" pop="1" />
+    <ReportPop id="rep_vandals" pop="2" />
+    <ReportPop id="rep_carblock" pop="8" />
+    <ReportPop id="rep_house_invade" pop="5" />
+    <ReportPop id="rep_gun_raid" pop="2" />
+    <ReportPop id="rep_family_abuse" pop="3" />
+    <ReportPop id="rep_cut" pop="10" />
+    <ReportPop id="rep_heart" pop="10" />
+    <ReportPop id="rep_epilepsy" pop="10" />
+    <ReportPop id="rep_birth" pop="10" />
+    <ReportPop id="rep_drunkdriver" pop="5" />
+    <ReportPop id="rep_pedehit" pop="3" />
+    <ReportPop id="rep_firehouse" pop="2" />
+    <ReportPop id="rep_firebuilding" pop="2" />
+    <ReportPop id="rep_cat" pop="10" />
+    <ReportPop id="rep_tree" pop="4" />
+    <ReportPop id="rep_caraccident" pop="2" />
+    <ReportPop id="rep_elevator" pop="5" />
+    <ReportPop id="rep_electric" pop="10" />
+    <ReportPop id="rep_chemical" pop="4" />
+    <ReportPop id="rep_pickpocket" pop="7" />
+    <ReportPop id="rep_car_steal" pop="6" />
+    <ReportPop id="rep_car_bump" pop="10" />
+    <ReportPop id="rep_drunken_driver" pop="3" />
+    <ReportPop id="rep_mad_driver" pop="1" />
+    <ReportPop id="rep_beating" pop="2" />
+    <ReportPop id="rep_biting" pop="5" />
+    <ReportPop id="rep_drug_dealer" pop="5" />
+    <ReportPop id="rep_drug_smuggling" pop="1" />
+    <ReportPop id="rep_broken" pop="10" />
+    <ReportPop id="rep_intoxication" pop="5" />
+    <ReportPop id="rep_uncons" pop="7" />
+    <ReportPop id="rep_unconsu" pop="5" />
+    <ReportPop id="rep_amputation" pop="3" />
+    <ReportPop id="rep_red_light" pop="13" />
+    <ReportPop id="rep_car_accident" pop="2" />
+    <ReportPop id="rep_drug_usage" pop="5" />
+    <ReportPop id="rep_twist" pop="5" />
+    <ReportPop id="rep_overuse" pop="5" />
+    <ReportPop id="rep_trashfire" pop="5" />
+    <ReportPop id="rep_speeding" pop="18" />
+    <ReportPop id="rep_loud_party" pop="10" />
+    <ReportPop id="rep_drinking_in_public" pop="10" />
+    <ReportPop id="rep_missingchild" pop="0" />
+    <ReportPop id="rep_takenchild" pop="0" />
+    <ReportPop id="rep_missingold" pop="0" />
+    <ReportPop id="rep_missinschizo" pop="0" />
+    <ReportPop id="rep_hiddencriminal" pop="0" />
+    <ReportPop id="rep_leftincident" pop="0" />
+    <ReportPop id="rep_vip" pop="0" />
+    <ReportPop id="rep_vip2" pop="0" />
+    <ReportPop id="rep_smokeinarea" pop="0" />
+    <ReportPop id="rep_nopowerarea" pop="0" />
+  </reportPopularities>
+  <succeedDutyInRow>0</succeedDutyInRow>
+</LevelData>

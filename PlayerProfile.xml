@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<PlayerProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <experience>0</experience>
+  <campaign>
+    <levelList>
+      <Scenario>
+        <cityName>Kapolei</cityName>
+        <cityId>150921582</cityId>
+        <locked>false</locked>
+      </Scenario>
+      <Scenario>
+        <cityName>Miami</cityName>
+        <cityId>campaign_miami</cityId>
+        <locked>true</locked>
+      </Scenario>
+      <Scenario>
+        <cityName>Albuquerque</cityName>
+        <cityId>151364049</cityId>
+        <locked>true</locked>
+      </Scenario>
+      <Scenario>
+        <cityName>Anchorage</cityName>
+        <cityId>150921144</cityId>
+        <locked>true</locked>
+      </Scenario>
+      <Scenario>
+        <cityName>Chicago</cityName>
+        <cityId>153388690</cityId>
+        <locked>true</locked>
+      </Scenario>
+      <Scenario>
+        <cityName>Detroit</cityName>
+        <cityId>campaign_detroit</cityId>
+        <locked>true</locked>
+      </Scenario>
+      <Scenario>
+        <cityName>San Francisco</cityName>
+        <cityId>26819236</cityId>
+        <locked>true</locked>
+      </Scenario>
+      <Scenario>
+        <cityName>New York</cityName>
+        <cityId>61785451</cityId>
+        <locked>true</locked>
+      </Scenario>
+      <Scenario>
+        <cityName>Boston</cityName>
+        <cityId>158809705</cityId>
+        <locked>true</locked>
+      </Scenario>
+      <Scenario>
+        <cityName>Washington</cityName>
+        <cityId>158368533</cityId>
+        <locked>true</locked>
+      </Scenario>
+    </levelList>
+  </campaign>
+  <tutorialPassed>false</tutorialPassed>
+</PlayerProfile>
