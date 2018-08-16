@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<LevelData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" cityId="107775">
+	<reportTimesMin>30</reportTimesMin>
+	<reportTimesMax>60</reportTimesMax>
+	<reportPopularities>
+		<ReportPop id="rep_rape" pop="1" />
+		<ReportPop id="rep_suecide_attemp" pop="1" />
+		<ReportPop id="rep_vandals" pop="2" />
+		<ReportPop id="rep_carblock" pop="8" />
+		<ReportPop id="rep_house_invade" pop="5" />
+		<ReportPop id="rep_gun_raid" pop="2" />
+		<ReportPop id="rep_family_abuse" pop="3" />
+		<ReportPop id="rep_cut" pop="10" />
+		<ReportPop id="rep_heart" pop="10" />
+		<ReportPop id="rep_epilepsy" pop="10" />
+		<ReportPop id="rep_birth" pop="10" />
+		<ReportPop id="rep_drunkdriver" pop="5" />
+		<ReportPop id="rep_pedehit" pop="3" />
+		<ReportPop id="rep_firehouse" pop="2" />
+		<ReportPop id="rep_firebuilding" pop="2" />
+		<ReportPop id="rep_cat" pop="10" />
+		<ReportPop id="rep_tree" pop="4" />
+		<ReportPop id="rep_caraccident" pop="2" />
+		<ReportPop id="rep_elevator" pop="5" />
+		<ReportPop id="rep_electric" pop="10" />
+		<ReportPop id="rep_chemical" pop="4" />
+		<ReportPop id="rep_pickpocket" pop="7" />
+		<ReportPop id="rep_car_steal" pop="6" />
+		<ReportPop id="rep_car_bump" pop="10" />
+		<ReportPop id="rep_drunken_driver" pop="3" />
+		<ReportPop id="rep_mad_driver" pop="1" />
+		<ReportPop id="rep_beating" pop="2" />
+		<ReportPop id="rep_biting" pop="5" />
+		<ReportPop id="rep_drug_dealer" pop="5" />
+		<ReportPop id="rep_drug_smuggling" pop="1" />
+		<ReportPop id="rep_broken" pop="10" />
+		<ReportPop id="rep_intoxication" pop="5" />
+		<ReportPop id="rep_uncons" pop="7" />
+		<ReportPop id="rep_unconsu" pop="5" />
+		<ReportPop id="rep_amputation" pop="3" />
+		<ReportPop id="rep_red_light" pop="13" />
+		<ReportPop id="rep_car_accident" pop="2" />
+		<ReportPop id="rep_drug_usage" pop="5" />
+		<ReportPop id="rep_twist" pop="5" />
+		<ReportPop id="rep_overuse" pop="5" />
+		<ReportPop id="rep_trashfire" pop="5" />
+		<ReportPop id="rep_speeding" pop="18" />
+		<ReportPop id="rep_loud_party" pop="10" />
+		<ReportPop id="rep_drinking_in_public" pop="10" />
+		<ReportPop id="rep_missingchild" pop="0" />
+		<ReportPop id="rep_takenchild" pop="0" />
+		<ReportPop id="rep_missingold" pop="0" />
+		<ReportPop id="rep_missinschizo" pop="0" />
+		<ReportPop id="rep_hiddencriminal" pop="0" />
+		<ReportPop id="rep_leftincident" pop="0" />
+		<ReportPop id="rep_vip" pop="0" />
+		<ReportPop id="rep_vip2" pop="0" />
+		<ReportPop id="rep_smokeinarea" pop="0" />
+		<ReportPop id="rep_nopowerarea" pop="0" />
+	</reportPopularities>
+	<succeedDutyInRow>0</succeedDutyInRow>
+</LevelData>
