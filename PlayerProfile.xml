@@ -20,5 +20,6 @@
 			</Scenario>
 		</levelList>
 	</campaign>
+	<achievementList />
 	<tutorialPassed>true</tutorialPassed>
 </PlayerProfile>
